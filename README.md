@@ -1,2 +1,4 @@
-# widgets-wp
-Training about wordpress widgets
+# Training Wordpress widget
+  
+  1. How to code a wordpress widget
+  
