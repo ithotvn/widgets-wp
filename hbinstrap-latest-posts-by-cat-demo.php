@@ -3,6 +3,8 @@
  * @package hbinstrap
  */
 
+echo "Test git";
+
 if (!function_exists('hbinstrap_latest_posts_by_cat_widget_demo')) :
 
 function hbinstrap_latest_posts_by_cat_widget_demo($instance)
